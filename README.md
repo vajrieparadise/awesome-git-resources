@@ -17,6 +17,7 @@ Daftar kurasi resource terbaik seputar Git dan GitHub.
 
 - [GitHub CLI](https://cli.github.com) - Command line tool resmi GitHub
 - [GitKraken](https://www.gitkraken.com) - GUI client Git populer
+- [Lazygit](https://github.com/jesseduffield/lazygit) - Terminal UI untuk Git, cepat dan ringan
 
 ## Buku
 
